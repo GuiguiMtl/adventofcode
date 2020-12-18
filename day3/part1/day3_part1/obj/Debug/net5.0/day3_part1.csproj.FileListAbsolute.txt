@@ -1,0 +1,16 @@
+/home/codespace/workspace/day3/part1/day3_part1/bin/Debug/net5.0/day3_part1
+/home/codespace/workspace/day3/part1/day3_part1/bin/Debug/net5.0/day3_part1.deps.json
+/home/codespace/workspace/day3/part1/day3_part1/bin/Debug/net5.0/day3_part1.runtimeconfig.json
+/home/codespace/workspace/day3/part1/day3_part1/bin/Debug/net5.0/day3_part1.runtimeconfig.dev.json
+/home/codespace/workspace/day3/part1/day3_part1/bin/Debug/net5.0/day3_part1.dll
+/home/codespace/workspace/day3/part1/day3_part1/bin/Debug/net5.0/ref/day3_part1.dll
+/home/codespace/workspace/day3/part1/day3_part1/bin/Debug/net5.0/day3_part1.pdb
+/home/codespace/workspace/day3/part1/day3_part1/obj/Debug/net5.0/day3_part1.csprojAssemblyReference.cache
+/home/codespace/workspace/day3/part1/day3_part1/obj/Debug/net5.0/day3_part1.GeneratedMSBuildEditorConfig.editorconfig
+/home/codespace/workspace/day3/part1/day3_part1/obj/Debug/net5.0/day3_part1.AssemblyInfoInputs.cache
+/home/codespace/workspace/day3/part1/day3_part1/obj/Debug/net5.0/day3_part1.AssemblyInfo.cs
+/home/codespace/workspace/day3/part1/day3_part1/obj/Debug/net5.0/day3_part1.csproj.CoreCompileInputs.cache
+/home/codespace/workspace/day3/part1/day3_part1/obj/Debug/net5.0/day3_part1.dll
+/home/codespace/workspace/day3/part1/day3_part1/obj/Debug/net5.0/ref/day3_part1.dll
+/home/codespace/workspace/day3/part1/day3_part1/obj/Debug/net5.0/day3_part1.pdb
+/home/codespace/workspace/day3/part1/day3_part1/obj/Debug/net5.0/day3_part1.genruntimeconfig.cache
