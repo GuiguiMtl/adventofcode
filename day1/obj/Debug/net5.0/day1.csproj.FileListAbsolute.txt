@@ -1,0 +1,16 @@
+/home/codespace/workspace/day1/obj/Debug/net5.0/day1.csprojAssemblyReference.cache
+/home/codespace/workspace/day1/obj/Debug/net5.0/day1.GeneratedMSBuildEditorConfig.editorconfig
+/home/codespace/workspace/day1/obj/Debug/net5.0/day1.AssemblyInfoInputs.cache
+/home/codespace/workspace/day1/obj/Debug/net5.0/day1.AssemblyInfo.cs
+/home/codespace/workspace/day1/obj/Debug/net5.0/day1.csproj.CoreCompileInputs.cache
+/home/codespace/workspace/day1/bin/Debug/net5.0/day1
+/home/codespace/workspace/day1/bin/Debug/net5.0/day1.deps.json
+/home/codespace/workspace/day1/bin/Debug/net5.0/day1.runtimeconfig.json
+/home/codespace/workspace/day1/bin/Debug/net5.0/day1.runtimeconfig.dev.json
+/home/codespace/workspace/day1/bin/Debug/net5.0/day1.dll
+/home/codespace/workspace/day1/bin/Debug/net5.0/ref/day1.dll
+/home/codespace/workspace/day1/bin/Debug/net5.0/day1.pdb
+/home/codespace/workspace/day1/obj/Debug/net5.0/day1.dll
+/home/codespace/workspace/day1/obj/Debug/net5.0/ref/day1.dll
+/home/codespace/workspace/day1/obj/Debug/net5.0/day1.pdb
+/home/codespace/workspace/day1/obj/Debug/net5.0/day1.genruntimeconfig.cache

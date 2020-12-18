@@ -1,0 +1,40 @@
+{
+   // Use IntelliSense to find out which attributes exist for C# debugging
+   // Use hover for the description of the existing attributes
+   // For further information visit https://github.com/OmniSharp/omnisharp-vscode/blob/master/debugger-launchjson.md
+   "version": "0.2.0",
+   "configurations": [
+        {
+            "name": "day1",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build_day1",
+            // If you have changed target frameworks, make sure to update the program path.
+            "program": "${workspaceFolder}/day1/bin/Debug/net5.0/day1.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/day1",
+            // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
+            "console": "internalConsole",
+            "stopAtEntry": false
+        },
+        {
+            "name": "day1_2",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build_day1_2",
+            // If you have changed target frameworks, make sure to update the program path.
+            "program": "${workspaceFolder}/day1/bin/Debug/net5.0/day1_part2.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/day1_part2",
+            // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
+            "console": "internalConsole",
+            "stopAtEntry": false
+        },
+        {
+            "name": ".NET Core Attach",
+            "type": "coreclr",
+            "request": "attach",
+            "processId": "${command:pickProcess}"
+        }
+    ]
+}
