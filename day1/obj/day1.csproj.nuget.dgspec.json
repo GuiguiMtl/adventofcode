@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/codespace/workspace/day1/day1.csproj": {}
+    "C:\\Users\\guill\\RiderProjects\\adventofcode\\day1\\day1.csproj": {}
   },
   "projects": {
-    "/home/codespace/workspace/day1/day1.csproj": {
+    "C:\\Users\\guill\\RiderProjects\\adventofcode\\day1\\day1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/codespace/workspace/day1/day1.csproj",
+        "projectUniqueName": "C:\\Users\\guill\\RiderProjects\\adventofcode\\day1\\day1.csproj",
         "projectName": "day1",
-        "projectPath": "/home/codespace/workspace/day1/day1.csproj",
-        "packagesPath": "/var/nuget",
-        "outputPath": "/home/codespace/workspace/day1/obj/",
+        "projectPath": "C:\\Users\\guill\\RiderProjects\\adventofcode\\day1\\day1.csproj",
+        "packagesPath": "C:\\Users\\guill\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\guill\\RiderProjects\\adventofcode\\day1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/codespace/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\guill\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/opt/dotnet/5.0.100/sdk/5.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

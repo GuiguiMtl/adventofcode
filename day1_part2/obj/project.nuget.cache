@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IDZ2G8LJIenI1M+11laJRPMExIB+1H/eBwuBEFNkB7B8ZmMokfLK6XLROVb2qeoXSHrVMqji0OuwQuQy2xWFZQ==",
+  "dgSpecHash": "CDIpSPD6YifR3k4TZ+f6kPrAjtNxfr6X9Nv+GBPCeWkS3HVvRtlNjhYJ46VVDpu+M5ESfPe39QMMQAm8Z5ssLw==",
   "success": true,
-  "projectFilePath": "/home/codespace/workspace/day1_part2/day1_part2.csproj",
+  "projectFilePath": "C:\\Users\\guill\\RiderProjects\\adventofcode\\day1_part2\\day1_part2.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
