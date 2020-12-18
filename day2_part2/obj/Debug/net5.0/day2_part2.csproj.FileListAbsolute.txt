@@ -1,0 +1,16 @@
+/home/codespace/workspace/day2_part2/bin/Debug/net5.0/day2_part2
+/home/codespace/workspace/day2_part2/bin/Debug/net5.0/day2_part2.deps.json
+/home/codespace/workspace/day2_part2/bin/Debug/net5.0/day2_part2.runtimeconfig.json
+/home/codespace/workspace/day2_part2/bin/Debug/net5.0/day2_part2.runtimeconfig.dev.json
+/home/codespace/workspace/day2_part2/bin/Debug/net5.0/day2_part2.dll
+/home/codespace/workspace/day2_part2/bin/Debug/net5.0/ref/day2_part2.dll
+/home/codespace/workspace/day2_part2/bin/Debug/net5.0/day2_part2.pdb
+/home/codespace/workspace/day2_part2/obj/Debug/net5.0/day2_part2.csprojAssemblyReference.cache
+/home/codespace/workspace/day2_part2/obj/Debug/net5.0/day2_part2.GeneratedMSBuildEditorConfig.editorconfig
+/home/codespace/workspace/day2_part2/obj/Debug/net5.0/day2_part2.AssemblyInfoInputs.cache
+/home/codespace/workspace/day2_part2/obj/Debug/net5.0/day2_part2.AssemblyInfo.cs
+/home/codespace/workspace/day2_part2/obj/Debug/net5.0/day2_part2.csproj.CoreCompileInputs.cache
+/home/codespace/workspace/day2_part2/obj/Debug/net5.0/day2_part2.dll
+/home/codespace/workspace/day2_part2/obj/Debug/net5.0/ref/day2_part2.dll
+/home/codespace/workspace/day2_part2/obj/Debug/net5.0/day2_part2.pdb
+/home/codespace/workspace/day2_part2/obj/Debug/net5.0/day2_part2.genruntimeconfig.cache
